@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "D:\\code\\Python36\\lib\\site-packages",
+        "D:\\code\\Python36\\python36.zip",
+        "'D:\\code\\Python36\\DLLs",
+        "D:\\code\\Python36\\lib",
+        "D:\\code\\Python36"
+    ]
+}
